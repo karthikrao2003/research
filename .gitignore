@@ -63,3 +63,5 @@ htmlcov/
 # MongoDB
 *.bson
 
+# Vercel
+.vercel

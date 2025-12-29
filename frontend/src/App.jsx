@@ -141,7 +141,6 @@ function LoginPage({ auth }) {
     const [mode, setMode] = useState('login');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-    const [showPassword, setShowPassword] = useState(false);
     const [error, setError] = useState('');
     const [loading, setLoading] = useState(false);
 
@@ -178,32 +177,13 @@ function LoginPage({ auth }) {
                                 placeholder="Email"
                                 className="w-full rounded-2xl border border-slate-700 bg-slate-950/40 px-4 py-3 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-cyan-400/60"
                             />
-                            <div className="relative">
-                                <input
-                                    value={password}
-                                    onChange={(e) => setPassword(e.target.value)}
-                                    placeholder="Password"
-                                    type={showPassword ? 'text' : 'password'}
-                                    className="w-full rounded-2xl border border-slate-700 bg-slate-950/40 px-4 py-3 pr-12 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-violet-400/60"
-                                />
-                                <button
-                                    type="button"
-                                    onClick={() => setShowPassword(!showPassword)}
-                                    className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-200 transition-colors"
-                                    aria-label={showPassword ? 'Hide password' : 'Show password'}
-                                >
-                                    {showPassword ? (
-                                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                                            <path strokeLinecap="round" strokeLinejoin="round" d="M3.98 8.223A10.477 10.477 0 001.934 12C3.226 16.338 7.244 19.5 12 19.5c.993 0 1.953-.138 2.863-.395M6.228 6.228A10.45 10.45 0 0112 4.5c4.756 0 8.774 3.162 10.065 7.498a10.523 10.523 0 01-4.293 5.774M6.228 6.228L3 3m3.228 3.228l3.65 3.65m7.894 7.894L21 21m-3.228-3.228l-3.65-3.65m0 0a3 3 0 11-4.243-4.243m4.242 4.242L9.88 9.88" />
-                                        </svg>
-                                    ) : (
-                                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                                            <path strokeLinecap="round" strokeLinejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
-                                            <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                                        </svg>
-                                    )}
-                                </button>
-                            </div>
+                            <input
+                                value={password}
+                                onChange={(e) => setPassword(e.target.value)}
+                                placeholder="Password"
+                                type="password"
+                                className="w-full rounded-2xl border border-slate-700 bg-slate-950/40 px-4 py-3 text-sm text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-violet-400/60"
+                            />
                             {error && (
                                 <div className="rounded-2xl border border-rose-500/30 bg-rose-500/10 p-3 text-sm font-semibold text-rose-200">{error}</div>
                             )}
@@ -329,83 +309,6 @@ function HistoryPage({ auth }) {
                                     );
                                 }
 
-                                if (it.kind === 'predict') {
-                                    const payload = it.payload || {};
-                                    const status = payload.status || 'Unknown';
-                                    const totals = payload.totals || {};
-                                    const requirements = payload.requirements || {};
-                                    const deficits = payload.deficits || {};
-                                    const isAdequate = String(status).toLowerCase() === 'adequate';
-                                    const deficitEntries = Object.entries(deficits);
-
-                                    const fmt = (k) => {
-                                        if (k === 'protein_g') return { name: 'Protein', unit: 'g', accent: 'text-cyan-300' };
-                                        if (k === 'iron_mg') return { name: 'Iron', unit: 'mg', accent: 'text-rose-300' };
-                                        if (k === 'b12_mcg') return { name: 'Vitamin B12', unit: 'mcg', accent: 'text-violet-300' };
-                                        if (k === 'omega3_g') return { name: 'Omega-3', unit: 'g', accent: 'text-amber-300' };
-                                        return { name: k, unit: '', accent: 'text-slate-200' };
-                                    };
-
-                                    return (
-                                        <div key={idx} className="rounded-2xl border border-slate-700 bg-gradient-to-br from-slate-800/80 via-slate-900/70 to-slate-950/70 p-6 shadow-2xl">
-                                            <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between mb-4">
-                                                <div>
-                                                    <div className="text-xs font-black uppercase tracking-wide text-violet-200">Prediction</div>
-                                                    <div className="text-lg font-black text-white">Nutrition Adequacy</div>
-                                                </div>
-                                                <div className="flex items-center gap-3">
-                                                    <div className="text-xs text-slate-500">{created}</div>
-                                                    <div className={`inline-flex items-center gap-2 rounded-full px-3 py-1 text-xs font-bold ${isAdequate ? 'bg-emerald-500/15 text-emerald-300 ring-1 ring-emerald-400/30' : 'bg-rose-500/15 text-rose-300 ring-1 ring-rose-400/30'}`}>
-                                                        <span className="h-1.5 w-1.5 rounded-full bg-current" />
-                                                        {status}
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5 mb-4">
-                                                <div className="rounded-xl border border-slate-700 bg-slate-900/40 p-3">
-                                                    <div className="text-xs uppercase tracking-wide text-slate-400">Protein</div>
-                                                    <div className="mt-1 text-lg font-extrabold text-cyan-300">{Number(totals.protein_g ?? 0).toFixed(1)} <span className="text-xs text-slate-400">g</span></div>
-                                                </div>
-                                                <div className="rounded-xl border border-slate-700 bg-slate-900/40 p-3">
-                                                    <div className="text-xs uppercase tracking-wide text-slate-400">Iron</div>
-                                                    <div className="mt-1 text-lg font-extrabold text-rose-300">{Number(totals.iron_mg ?? 0).toFixed(1)} <span className="text-xs text-slate-400">mg</span></div>
-                                                </div>
-                                                <div className="rounded-xl border border-slate-700 bg-slate-900/40 p-3">
-                                                    <div className="text-xs uppercase tracking-wide text-slate-400">B12</div>
-                                                    <div className="mt-1 text-lg font-extrabold text-violet-300">{Number(totals.b12_mcg ?? 0).toFixed(1)} <span className="text-xs text-slate-400">mcg</span></div>
-                                                </div>
-                                                <div className="rounded-xl border border-slate-700 bg-slate-900/40 p-3">
-                                                    <div className="text-xs uppercase tracking-wide text-slate-400">Omega-3</div>
-                                                    <div className="mt-1 text-lg font-extrabold text-amber-300">{Number(totals.omega3_g ?? 0).toFixed(1)} <span className="text-xs text-slate-400">g</span></div>
-                                                </div>
-                                                <div className="rounded-xl border border-slate-700 bg-slate-900/40 p-3">
-                                                    <div className="text-xs uppercase tracking-wide text-slate-400">Calories</div>
-                                                    <div className="mt-1 text-lg font-extrabold text-lime-300">{Number(totals.cal_kcal ?? 0).toFixed(0)} <span className="text-xs text-slate-400">kcal</span></div>
-                                                </div>
-                                            </div>
-
-                                            {deficitEntries.length > 0 && (
-                                                <div className="mt-4 rounded-xl border border-slate-700 bg-slate-950/30 p-4">
-                                                    <div className="text-xs font-black text-slate-100 mb-2">Deficits</div>
-                                                    <div className="flex flex-wrap gap-2">
-                                                        {deficitEntries.map(([k, v]) => {
-                                                            const meta = fmt(k);
-                                                            return (
-                                                                <div key={k} className="rounded-full bg-rose-500/10 px-3 py-1 text-xs font-bold text-rose-200 ring-1 ring-rose-400/20">
-                                                                    <span className={meta.accent}>{meta.name}</span>
-                                                                    <span className="text-slate-400"> — </span>
-                                                                    <span>{Number(v ?? 0).toFixed(2)} {meta.unit}</span>
-                                                                </div>
-                                                            );
-                                                        })}
-                                                    </div>
-                                                </div>
-                                            )}
-                                        </div>
-                                    );
-                                }
-
                                 return (
                                     <div key={idx} className="rounded-2xl border border-slate-800 bg-slate-900/40 p-5">
                                         <div className="flex items-center justify-between">
@@ -434,13 +337,6 @@ function App() {
     const nav = useNavigate();
 
     const [lastSavedSearch, setLastSavedSearch] = useState('');
-
-    // If not authenticated, redirect to login immediately
-    useEffect(() => {
-        if (!auth.isAuthed) {
-            nav('/login', { replace: true });
-        }
-    }, [auth.isAuthed, nav]);
 
     // Pages are routed below; the dashboard remains the default route.
     const [weight, setWeight] = useState(60);
