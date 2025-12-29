@@ -1,0 +1,1348 @@
+name,protein_g,iron_mg,b12_mcg,omega3_g,cal_kcal
+Apple,0.3,0.1,0,0,52
+Banana,1.1,0.3,0,0,89
+Orange,0.9,0.1,0,0,47
+Mango,0.8,0.2,0,0,60
+Grapes,0.7,0.4,0,0,69
+Papaya,0.5,0.3,0,0,43
+Pineapple,0.5,0.3,0,0,50
+Strawberry,0.7,0.4,0,0,32
+Blueberry,0.7,0.3,0,0,57
+Raspberry,1.2,0.7,0,0.1,52
+Blackberry,1.4,0.6,0,0.1,43
+Cherry,1.1,0.4,0,0,63
+Peach,0.9,0.3,0,0,39
+Plum,0.7,0.2,0,0,46
+Apricot,1.4,0.4,0,0,48
+Pear,0.4,0.2,0,0,57
+Kiwi,1.1,0.3,0,0,61
+Watermelon,0.6,0.2,0,0,30
+Cantaloupe,0.8,0.2,0,0,34
+Honeydew,0.5,0.2,0,0,36
+Pomegranate,1.7,0.3,0,0,83
+Guava,2.6,0.3,0,0,68
+Lychee,0.8,0.3,0,0,66
+Dragon fruit,1.2,0.7,0,0,60
+Passion fruit,2.2,1.6,0,0,97
+Fig,0.8,0.4,0,0,74
+Date,2.5,1.0,0,0,282
+Coconut,3.3,2.4,0,0,354
+Avocado,2.0,0.6,0,0.1,160
+Lemon,1.1,0.6,0,0,29
+Lime,0.7,0.6,0,0,30
+Grapefruit,0.8,0.1,0,0,42
+Tangerine,0.8,0.2,0,0,53
+Mandarin,0.8,0.2,0,0,53
+Clementine,0.9,0.1,0,0,47
+Persimmon,0.6,0.2,0,0,70
+Cranberry,0.4,0.3,0,0,46
+Gooseberry,0.9,0.3,0,0,44
+Mulberry,1.4,1.9,0,0,43
+Jackfruit,1.7,0.2,0,0,95
+Star fruit,1.0,0.1,0,0,31
+Custard apple,2.1,0.6,0,0,94
+Sapota (Chikoo),0.4,0.8,0,0,83
+Durian,1.5,0.4,0,0,147
+Rambutan,0.7,0.4,0,0,82
+Longan,1.3,0.1,0,0,60
+Mangosteen,0.4,0.2,0,0,73
+Ugli fruit,0.9,0.1,0,0,45
+Blood orange,0.7,0.2,0,0,50
+Soursop,1.0,0.6,0,0,66
+Quince,0.4,0.7,0,0,57
+Jujube,1.2,0.5,0,0,79
+Kumquat,1.9,0.9,0,0,71
+Yuzu,0.8,0.1,0,0,53
+Pomelo,0.8,0.1,0,0,38
+Salak (Snake fruit),0.8,4.2,0,0,82
+Ackee,2.9,0.7,0,0,151
+Bael,1.8,0.6,0,0,137
+Bilberry,0.7,0.3,0,0,44
+Boysenberry,1.1,0.3,0,0,50
+Cloudberry,2.4,0.7,0,0.1,51
+Elderberry,0.7,1.6,0,0,73
+Huckleberry,0.4,0.3,0,0,37
+Loganberry,1.5,0.6,0,0,55
+Marionberry,1.0,0.5,0,0,50
+Miracle fruit,1.0,0.1,0,0,30
+Physalis,1.9,1.0,0,0,53
+Rowan berry,1.0,0.9,0,0,50
+Sea buckthorn berry,1.2,0.4,0,0,80
+Serviceberry,0.9,0.8,0,0,85
+Surinam cherry,0.8,0.2,0,0,33
+White currant,1.4,1.0,0,0,56
+Red currant,1.4,1.0,0,0,56
+Black currant,1.4,1.5,0,0,63
+Tamarind,2.8,2.8,0,0,239
+Wood apple,3.5,0.6,0,0,134
+Ziziphus fruit,1.2,0.5,0,0,79
+Prickly pear,0.7,0.3,0,0,41
+Rose apple,0.6,0.2,0,0,25
+Indian gooseberry (Amla),0.5,1.2,0,0,44
+Jabuticaba,0.7,0.1,0,0,45
+Breadfruit,1.1,0.5,0,0,103
+Feijoa,0.6,0.1,0,0,55
+Medlar,0.5,0.2,0,0,40
+Loquat,0.4,0.3,0,0,47
+Nance,0.7,0.4,0,0,73
+Sapodilla plum,0.4,0.8,0,0,83
+Sugar apple,2.1,0.6,0,0,94
+Ice apple,0.5,0.1,0,0,40
+Desert lime,1.0,0.5,0,0,30
+Finger lime,0.7,0.2,0,0,30
+African cucumber,1.8,1.1,0,0,44
+Illawarra plum,1.0,0.5,0,0,45
+Mountain papaya,0.6,0.3,0,0,40
+Santol,0.2,0.2,0,0,40
+Velvet apple,1.5,0.5,0,0,75
+White sapote,1.8,0.3,0,0,135
+Carrot,0.9,0.3,0,0,41
+Potato,2.0,0.8,0,0,77
+Tomato,0.9,0.3,0,0,18
+Onion,1.1,0.2,0,0,40
+Garlic,6.4,1.7,0,0,149
+Ginger,1.8,0.6,0,0,80
+Beetroot,1.6,0.8,0,0,43
+Radish,0.7,0.3,0,0,16
+Turnip,0.9,0.3,0,0,28
+Sweet potato,1.6,0.6,0,0,86
+Yam,1.5,0.5,0,0,118
+Cassava,1.4,0.3,0,0,160
+Pumpkin,1.0,0.8,0,0,26
+Squash,1.0,0.4,0,0,20
+Zucchini,1.2,0.4,0,0,17
+Cucumber,0.7,0.3,0,0,15
+Bottle gourd,0.6,0.2,0,0,14
+Ridge gourd,0.7,0.4,0,0,20
+Bitter gourd,1.0,0.4,0,0,17
+Snake gourd,0.7,0.3,0,0,18
+Drumstick (Moringa pods),2.1,0.9,0,0,37
+Cabbage,1.3,0.5,0,0,25
+Cauliflower,1.9,0.4,0,0,25
+Broccoli,2.8,0.7,0,0.1,34
+Brussels sprouts,3.4,1.4,0,0.1,43
+Kohlrabi,1.7,0.4,0,0,27
+Spinach,2.9,2.7,0,0.1,23
+Fenugreek leaves,4.4,1.9,0,0,49
+Mustard greens,2.7,1.6,0,0.1,27
+Amaranth leaves,2.5,2.3,0,0,23
+Lettuce,1.4,0.9,0,0,15
+Iceberg lettuce,0.9,0.4,0,0,14
+Romaine lettuce,1.2,0.9,0,0,17
+Endive,1.3,0.8,0,0,17
+Escarole,1.3,0.8,0,0,17
+Arugula,2.6,1.5,0,0.1,25
+Kale,4.3,1.5,0,0.2,49
+Collard greens,2.5,0.2,0,0.1,32
+Swiss chard,1.8,1.8,0,0,19
+Spring onion,1.8,1.5,0,0,32
+Leek,1.5,2.1,0,0,61
+Shallot,2.5,1.2,0,0,72
+Green beans,1.8,1.0,0,0,31
+French beans,1.8,1.0,0,0,31
+Runner beans,2.0,1.0,0,0,20
+Cluster beans,3.2,1.1,0,0,34
+Green peas,5.4,1.5,0,0.1,81
+Snow peas,2.8,2.1,0,0,42
+Snap peas,2.8,2.0,0,0,42
+Okra,1.9,0.6,0,0,33
+Eggplant (Brinjal),1.0,0.2,0,0,25
+Bell pepper,1.0,0.4,0,0,20
+Capsicum,0.9,0.4,0,0,20
+Chili pepper,1.9,1.0,0,0,40
+Jalapeño,0.9,0.6,0,0,29
+Poblano pepper,1.0,0.6,0,0,20
+Habanero pepper,1.5,0.5,0,0,40
+Corn,3.2,0.5,0,0,86
+Baby corn,2.3,0.8,0,0,26
+Bamboo shoots,2.6,0.5,0,0,27
+Artichoke,3.3,1.3,0,0,47
+Asparagus,2.2,2.1,0,0,20
+Celery,0.7,0.2,0,0,16
+Fennel,1.2,0.7,0,0,31
+Parsnip,1.2,0.6,0,0,75
+Horseradish root,1.2,0.4,0,0,48
+Lotus root,1.6,1.2,0,0,74
+Taro root,1.5,0.7,0,0,112
+Water chestnut,1.4,0.0,0,0,97
+Chayote,0.8,0.3,0,0,19
+Daikon radish,0.6,0.4,0,0,18
+Edamame,11.9,2.3,0,0.4,121
+Green soybean,13.0,3.5,0,0.6,147
+Pointed gourd,2.0,0.4,0,0,20
+Ivy gourd,1.2,0.3,0,0,18
+Elephant foot yam,1.5,0.6,0,0,118
+Ash gourd,0.4,0.4,0,0,13
+Celeriac,1.5,0.7,0,0,42
+Kohlrabi greens,2.0,0.4,0,0,25
+Broccoli stems,2.0,0.6,0,0,28
+Pumpkin flowers,1.0,0.8,0,0,15
+Banana flower,1.6,1.8,0,0,51
+Banana stem,0.5,0.6,0,0,15
+Turnip greens,1.5,1.1,0,0,22
+Radish greens,2.5,3.6,0,0,25
+Carrot greens,2.0,2.0,0,0,35
+Drumstick leaves,6.7,0.9,0,0,64
+Sorrel leaves,2.0,2.4,0,0,22
+Malabar spinach,1.8,1.2,0,0,19
+Water spinach,2.6,2.1,0,0,19
+Salmon,20.4,0.8,3.2,2.5,208
+Tuna,23.3,1.0,2.2,0.7,132
+Sardine,24.6,2.9,8.9,1.5,208
+Mackerel,18.6,1.6,8.7,2.7,205
+Anchovy,20.4,3.3,0.6,1.5,131
+Herring,17.9,1.1,13.7,1.7,158
+Cod,17.8,0.4,0.9,0.2,82
+Haddock,18.9,0.2,2.1,0.2,90
+Pollock,19.4,0.2,3.2,0.5,92
+Halibut,20.8,0.2,1.1,0.7,111
+Flounder,18.8,0.2,1.5,0.2,91
+Sole,18.8,0.3,1.5,0.2,91
+Tilapia,20.1,0.6,1.6,0.2,96
+Catfish,16.4,0.3,2.9,0.6,105
+Pangasius,15.0,0.3,1.0,0.2,90
+Carp,17.8,1.2,1.5,0.7,127
+Rohu,19.0,1.0,1.2,0.4,100
+Hilsa,21.8,2.0,1.5,1.5,250
+Barramundi,20.0,0.2,1.0,0.6,100
+Grouper,19.4,0.9,0.7,0.2,92
+Snapper,20.5,0.2,3.0,0.3,100
+Sea bass,18.4,0.3,0.3,0.7,97
+Swordfish,19.7,0.8,1.7,0.8,144
+Marlin,25.4,0.7,1.5,0.5,112
+Trout,20.5,0.3,4.3,1.0,148
+Rainbow trout,19.9,1.5,4.5,1.1,141
+Shrimp,24.0,0.5,1.7,0.3,99
+Prawn,20.0,0.5,1.2,0.2,105
+Lobster,19.0,0.3,1.3,0.3,89
+Crab,19.0,0.4,3.0,0.4,97
+Crawfish,14.9,0.8,2.0,0.2,77
+Squid,15.6,0.7,1.3,0.5,92
+Cuttlefish,16.2,6.0,3.0,0.2,79
+Octopus,14.9,5.3,20.0,0.2,82
+Mussels,11.9,3.9,12.0,0.7,86
+Clams,12.8,14.0,49.0,0.2,74
+Oysters,9.0,6.7,16.0,0.7,68
+Scallops,12.1,0.3,1.4,0.2,69
+Abalone,17.1,3.2,0.0,0.1,105
+Conch,15.8,1.4,0.0,0.1,130
+Sea urchin,16.0,3.0,0.0,0.5,172
+Sea cucumber,13.0,0.6,0.0,0.1,56
+Jellyfish,5.5,2.3,0.0,0.0,36
+Eel,18.4,0.5,3.0,0.2,184
+Moray eel,20.0,0.8,2.5,0.3,150
+Yellowfin tuna,24.0,0.8,0.5,0.2,108
+Bluefin tuna,23.3,1.0,9.4,1.3,144
+Albacore tuna,25.0,1.0,2.5,1.0,170
+King mackerel,18.0,1.5,8.0,2.5,200
+Atlantic salmon,20.0,0.8,3.0,2.2,208
+Sockeye salmon,21.3,0.6,5.8,1.2,168
+Pink salmon,20.0,0.5,4.0,1.0,127
+Chum salmon,20.0,0.5,3.5,0.8,120
+Coho salmon,21.0,0.6,4.5,1.1,146
+Freshwater prawn,20.0,1.5,1.2,0.2,100
+Tiger prawn,21.0,1.8,1.3,0.2,105
+White shrimp,20.0,0.4,1.5,0.3,106
+Brown shrimp,19.5,0.4,1.4,0.3,100
+King crab,19.0,0.6,9.0,0.4,84
+Snow crab,18.5,0.4,8.8,0.4,90
+Dungeness crab,19.0,0.4,3.0,0.3,86
+Blue crab,18.0,0.5,6.0,0.3,87
+Softshell crab,17.0,1.0,5.0,0.2,95
+Razor clams,15.0,20.0,40.0,0.3,85
+Manila clams,13.0,15.0,45.0,0.3,75
+Geoduck,16.0,10.0,10.0,0.2,80
+Razor fish,14.0,1.0,2.0,0.2,90
+Skate fish,19.0,0.5,1.0,0.2,95
+Dogfish,18.0,0.8,1.5,0.5,150
+Shark,21.0,0.8,1.5,0.5,130
+Mahi mahi,18.5,1.1,0.6,0.1,85
+Wahoo,19.0,1.0,1.0,0.4,110
+Pomfret,17.0,0.7,1.0,0.3,100
+Butterfish,17.0,0.5,1.5,0.4,180
+Ribbonfish,18.0,0.6,2.0,0.4,105
+Flying fish,19.0,0.8,2.0,0.3,100
+Anchovy paste,16.0,3.0,0.5,1.0,150
+Fish roe,22.0,2.0,10.0,2.5,140
+Caviar,24.0,11.0,20.0,3.5,260
+Bottarga,35.0,5.0,10.0,2.0,380
+Smoked salmon,18.0,0.8,3.2,1.8,117
+Dried anchovies,45.0,6.0,2.0,2.5,300
+Salted fish,40.0,5.0,2.0,1.5,250
+Pickled herring,14.0,1.0,9.0,1.5,260
+Fish fingers,13.0,0.5,1.0,0.2,250
+Fish fillet,18.0,0.5,2.0,0.3,110
+Fish steak,19.0,0.8,2.0,0.5,120
+Surimi,7.0,0.2,0.5,0.0,99
+Milk (whole),3.2,0.0,0.4,0.0,61
+Milk (skimmed),3.4,0.0,0.5,0.0,35
+Milk (low fat),3.3,0.0,0.5,0.0,50
+Buffalo milk,3.7,0.1,0.4,0.0,97
+Goat milk,3.6,0.1,0.1,0.0,69
+Sheep milk,6.0,0.1,0.7,0.1,108
+Cream,2.0,0.0,0.2,0.0,195
+Heavy cream,2.1,0.0,0.2,0.1,340
+Whipping cream,2.0,0.0,0.1,0.1,290
+Sour cream,2.4,0.0,0.2,0.0,198
+Yogurt (plain),3.5,0.1,0.4,0.0,61
+Yogurt (Greek),10.0,0.1,0.7,0.0,59
+Yogurt (low fat),5.3,0.1,0.5,0.0,63
+Yogurt (flavored),4.0,0.1,0.4,0.0,100
+Buttermilk,3.3,0.1,0.2,0.0,40
+Kefir,3.4,0.0,0.3,0.0,60
+Cheese (cheddar),25.0,0.7,0.8,0.3,402
+Cheese (mozzarella),22.0,0.4,2.3,0.1,300
+Cheese (parmesan),38.0,0.9,1.4,0.1,431
+Cheese (gouda),25.0,0.2,1.5,0.2,356
+Cheese (brie),21.0,0.5,1.7,0.2,334
+Cheese (camembert),20.0,0.3,1.3,0.2,300
+Cheese (blue),21.0,0.3,1.2,0.3,353
+Cheese (feta),14.0,0.7,1.7,0.1,264
+Cheese (ricotta),11.0,0.4,0.3,0.1,174
+Cheese (paneer),18.0,0.1,0.2,0.0,296
+Cottage cheese,11.0,0.1,0.4,0.0,98
+Processed cheese,18.0,0.4,0.8,0.1,320
+Cream cheese,6.0,0.4,0.2,0.1,342
+Mascarpone,5.0,0.1,0.1,0.1,430
+Ice cream,3.5,0.1,0.2,0.0,207
+Frozen yogurt,3.0,0.1,0.2,0.0,127
+Milk powder,26.0,0.3,3.0,0.0,496
+Condensed milk,7.9,0.2,0.4,0.0,321
+Evaporated milk,6.8,0.2,0.2,0.0,134
+Whey,0.9,0.0,0.3,0.0,27
+Casein,85.0,1.0,0.5,0.0,360
+Butter,0.9,0.0,0.2,0.3,717
+Ghee,0.0,0.0,0.0,0.4,900
+Clarified butter,0.0,0.0,0.0,0.4,900
+Lassi,3.0,0.1,0.3,0.0,70
+Sweet lassi,2.8,0.1,0.3,0.0,120
+Salted lassi,2.9,0.1,0.3,0.0,50
+Milkshake,3.5,0.2,0.4,0.0,120
+Chocolate milk,3.2,0.6,0.4,0.0,85
+Flavored milk,3.2,0.1,0.4,0.0,80
+Custard (milk based),4.0,0.1,0.3,0.0,110
+Pudding (milk based),3.0,0.1,0.3,0.0,120
+Yogurt drink,3.0,0.1,0.3,0.0,70
+Skyr,11.0,0.1,0.5,0.0,60
+Quark,14.0,0.1,0.5,0.0,90
+Fromage frais,7.0,0.1,0.2,0.0,100
+Clotted cream,2.0,0.1,0.1,0.1,586
+Double cream,1.5,0.1,0.1,0.1,450
+Single cream,2.5,0.1,0.2,0.1,195
+Kulfi,5.0,0.2,0.3,0.0,180
+Rabri,8.0,0.3,0.4,0.0,250
+Basundi,6.0,0.2,0.3,0.0,180
+Shrikhand,6.0,0.2,0.3,0.0,260
+Cheese spread,12.0,0.2,0.5,0.1,280
+Cheese sauce,8.0,0.2,0.4,0.1,200
+Milk ice,3.0,0.1,0.2,0.0,140
+Dairy creamer,1.0,0.0,0.0,0.0,500
+Milk fat,0.0,0.0,0.0,0.0,900
+Lactose,0.0,0.0,0.0,0.0,400
+Button mushroom,3.1,0.5,0,0,22
+Portobello mushroom,2.5,0.5,0,0,22
+Cremini mushroom,2.5,0.5,0,0,22
+Shiitake mushroom,2.2,0.4,0,0,34
+Oyster mushroom,3.3,1.3,0,0,33
+Enoki mushroom,2.7,1.2,0,0,37
+Maitake mushroom,1.9,0.3,0,0,31
+Morel mushroom,3.1,12.0,0,0,31
+Chanterelle mushroom,1.5,3.5,0,0,38
+Porcini mushroom,2.5,1.0,0,0,26
+Reishi mushroom,2.0,1.0,0,0,25
+Lion’s mane mushroom,2.5,1.0,0,0,35
+Wood ear mushroom,0.5,0.5,0,0,25
+Straw mushroom,3.8,1.4,0,0,32
+Rice (white),2.7,0.2,0,0,130
+Rice (brown),2.6,0.5,0,0,111
+Basmati rice,3.5,0.5,0,0,130
+Jasmine rice,2.9,0.2,0,0,130
+Wild rice,4.0,0.6,0,0.1,101
+Wheat,13.0,3.5,0,0.1,340
+Whole wheat,13.2,3.9,0,0.1,340
+Maida (refined wheat flour),10.0,1.0,0,0,360
+Semolina,12.7,1.2,0,0,360
+Durum wheat,13.7,3.5,0,0.1,339
+Barley,2.3,0.4,0,0,123
+Pearl barley,2.3,0.4,0,0,123
+Oats,16.9,4.7,0,0.1,389
+Rolled oats,13.0,4.0,0,0.1,380
+Steel cut oats,13.0,4.0,0,0.1,370
+Corn,3.2,0.5,0,0,86
+Maize flour,9.0,2.4,0,0.1,360
+Cornmeal,8.0,2.4,0,0.1,370
+Millet,3.5,1.1,0,0.1,119
+Sorghum,11.0,4.4,0,0.1,339
+Pearl millet,11.0,3.0,0,0.1,378
+Finger millet (ragi),7.3,3.9,0,0.1,328
+Foxtail millet,12.3,2.8,0,0.1,331
+Proso millet,11.0,3.0,0,0.1,378
+Barnyard millet,6.2,5.0,0,0.1,307
+Buckwheat,3.4,0.8,0,0.1,92
+Quinoa,4.4,1.5,0,0.1,120
+Amaranth grain,3.8,2.1,0,0.1,102
+Rye,10.0,2.6,0,0.1,335
+Spelt,5.5,1.7,0,0.1,127
+Farro,5.0,1.5,0,0.1,170
+Kamut,5.7,1.7,0,0.1,140
+Triticale,13.0,2.6,0,0.1,336
+Bulgar wheat,3.1,1.0,0,0,83
+Couscous,3.8,0.4,0,0,112
+Freekeh,5.0,1.5,0,0,160
+Teff,3.9,1.6,0,0.1,101
+Rice flakes (poha),6.6,20.0,0,0,346
+Puffed rice,6.0,6.0,0,0,402
+Rice flour,6.0,0.4,0,0,366
+Wheat bran,15.6,10.6,0,0.2,216
+Wheat germ,23.0,6.3,0,0.7,360
+Corn bran,3.0,2.0,0,0,224
+Corn grits,7.0,1.0,0,0,360
+Hominy,2.0,0.5,0,0,70
+Popcorn,12.0,3.0,0,0.1,375
+Sago,0.2,1.0,0,0,350
+Tapioca pearls,0.2,1.0,0,0,358
+Broken wheat (dalia),12.0,3.5,0,0.1,340
+Wheat berries,13.0,3.5,0,0.1,340
+Wild millet,10.0,3.0,0,0.1,350
+Job’s tears,13.0,4.0,0,0.1,380
+Fonio,6.0,4.0,0,0.1,360
+Kodo millet,8.3,0.5,0,0.1,309
+Little millet,7.7,9.3,0,0.1,341
+Black rice,9.0,3.5,0,0.1,356
+Red rice,7.0,1.0,0,0.1,360
+Sticky rice,2.0,0.2,0,0,97
+Arborio rice,2.4,0.2,0,0,130
+Parboiled rice,2.8,0.4,0,0,123
+Rice vermicelli,3.0,1.0,0,0,109
+Wheat vermicelli,11.0,2.5,0,0,350
+Multigrain mix,12.0,3.0,0,0.1,340
+Grain flakes,8.0,8.0,0,0,360
+Cracked corn,8.0,2.0,0,0,360
+Cracked wheat,12.0,3.5,0,0.1,340
+Grain cereal,10.0,10.0,1.0,0.1,370
+Mixed grains,11.0,3.0,0,0.1,350
+Chicken,27.0,1.0,0.3,0.1,239
+Chicken breast,31.0,1.0,0.3,0.1,165
+Chicken thigh,26.0,1.3,0.4,0.2,209
+Chicken drumstick,28.0,1.3,0.3,0.2,172
+Chicken wings,25.0,1.1,0.3,0.2,203
+Turkey,29.0,1.4,1.0,0.1,189
+Turkey breast,30.0,0.8,0.4,0.1,135
+Duck,19.0,2.7,0.3,0.3,337
+Goose,22.0,2.5,0.4,0.1,305
+Quail,25.0,4.5,0.5,0.2,234
+Pheasant,32.0,1.2,0.6,0.1,181
+Beef,26.0,2.6,2.6,0.1,250
+Beef steak,25.0,2.6,4.0,0.1,271
+Beef mince,17.0,1.9,2.0,0.1,250
+Beef brisket,21.0,2.3,2.4,0.1,270
+Beef ribs,19.0,2.5,3.0,0.1,350
+Beef liver,20.0,4.9,59.3,0.3,135
+Beef kidney,17.0,4.6,27.0,0.2,99
+Veal,24.0,0.9,1.4,0.1,172
+Lamb,25.0,1.9,2.6,0.6,294
+Lamb chops,23.0,1.8,2.3,0.5,280
+Lamb leg,28.0,2.0,2.5,0.6,250
+Lamb mince,24.0,1.9,2.4,0.6,282
+Mutton,25.0,3.3,2.6,0.6,294
+Goat meat,20.0,2.8,1.2,0.1,109
+Pork,27.0,0.9,0.7,0.1,242
+Pork chops,24.0,0.8,0.7,0.1,231
+Pork ribs,20.0,0.9,0.8,0.1,300
+Pork belly,9.0,0.5,0.5,0.1,518
+Bacon,37.0,1.5,1.2,0.4,541
+Ham,21.0,1.5,0.9,0.1,145
+Sausage (pork),14.0,1.3,0.8,0.2,300
+Sausage (chicken),16.0,1.2,0.5,0.1,200
+Sausage (beef),14.0,1.5,1.5,0.1,300
+Salami,22.0,1.6,1.4,0.2,336
+Pepperoni,23.0,1.4,1.6,0.2,504
+Prosciutto,28.0,2.5,1.0,0.1,250
+Chorizo,24.0,1.6,1.1,0.2,455
+Hot dog sausage,12.0,1.3,1.0,0.1,290
+Bologna,11.0,1.4,1.3,0.1,300
+Meatballs,18.0,1.5,1.5,0.1,250
+Minced meat,20.0,2.0,2.0,0.2,250
+Ground beef,20.0,2.0,2.2,0.1,250
+Ground chicken,17.0,1.0,0.5,0.1,143
+Ground turkey,19.0,1.2,1.2,0.1,148
+Liver (chicken),17.0,9.0,16.0,0.2,116
+Liver (lamb),20.0,7.4,85.7,0.4,139
+Kidney (lamb),16.0,7.0,55.0,0.3,95
+Heart (beef),17.0,4.3,8.5,0.2,112
+Tripe,12.0,0.6,1.4,0.0,85
+Ox tongue,15.0,2.6,5.0,0.1,224
+Ox tail,18.0,2.0,2.0,0.1,260
+Venison,30.0,3.4,6.0,0.2,158
+Rabbit meat,29.0,2.3,6.0,0.3,173
+Hare meat,28.0,2.5,5.0,0.3,160
+Kangaroo meat,22.0,3.1,3.0,0.1,98
+Bison meat,22.0,3.4,2.5,0.1,143
+Yak meat,23.0,3.0,2.0,0.2,150
+Camel meat,20.0,2.9,1.5,0.1,100
+Horse meat,21.0,3.8,3.0,0.1,133
+Emu meat,23.0,4.5,5.0,0.2,110
+Ostrich meat,22.0,3.2,4.5,0.1,123
+Goat liver,20.0,6.0,60.0,0.3,130
+Chicken liver,17.0,9.0,16.0,0.2,116
+Chicken gizzard,18.0,2.5,1.2,0.1,94
+Chicken heart,16.0,6.0,7.3,0.2,153
+Smoked meat,25.0,2.5,2.0,0.2,200
+Dried meat,45.0,5.0,3.0,0.2,300
+Salted meat,30.0,3.0,2.0,0.2,250
+Corned beef,18.0,2.0,1.8,0.1,250
+Pastrami,20.0,2.0,2.0,0.1,150
+Roast beef,26.0,2.5,2.5,0.1,180
+Roast chicken,25.0,1.1,0.3,0.1,190
+Roast turkey,28.0,1.5,0.4,0.1,160
+Fried chicken,18.0,1.0,0.3,0.1,260
+Grilled chicken,28.0,1.0,0.3,0.1,160
+Tandoori chicken,25.0,1.5,0.5,0.1,200
+Chicken tikka,25.0,1.2,0.4,0.1,180
+Chicken kebab,22.0,1.2,0.4,0.1,170
+Mutton kebab,20.0,2.5,2.0,0.3,220
+Seekh kebab,18.0,2.5,2.0,0.3,250
+Shami kebab,15.0,2.0,1.5,0.2,200
+Meat curry,12.0,1.5,1.0,0.1,180
+Chicken curry,15.0,1.0,0.5,0.1,160
+Lamb curry,12.0,2.0,1.5,0.2,200
+Beef curry,14.0,2.5,2.0,0.1,220
+Meat stew,10.0,1.5,1.0,0.1,120
+Chicken stew,12.0,0.8,0.4,0.1,110
+Pork stew,11.0,0.8,0.8,0.1,150
+Meat loaf,15.0,2.0,1.5,0.1,250
+Meat pie filling,12.0,1.5,1.0,0.1,220
+Sausage roll filling,12.0,1.2,0.8,0.1,300
+BBQ meat,20.0,2.0,1.5,0.1,250
+Smoked sausage,14.0,1.2,1.0,0.1,320
+Luncheon meat,13.0,1.0,1.0,0.1,310
+Cured meat,25.0,2.0,1.5,0.2,300
+Jerky,33.0,5.4,1.0,0.1,410
+Beef jerky,33.0,5.4,1.0,0.1,410
+Chicken jerky,35.0,2.0,0.5,0.1,300
+Meat stock,3.0,0.2,0.2,0.0,20
+Bone broth,5.0,0.2,0.3,0.1,40
+Meat extract,20.0,2.0,5.0,0.1,150
+Meat gravy,3.0,0.5,0.2,0.0,80
+Meat fat,0.0,0.0,0.0,1.0,900
+Rendered fat,0.0,0.0,0.0,1.0,900
+Mixed meat,20.0,2.0,2.0,0.2,250
+Black pepper,10.0,9.7,0,0.2,251
+White pepper,10.4,14.3,0,0,296
+Green peppercorn,10.0,5.0,0,0,250
+Red chili powder,13.0,14.0,0,0.5,282
+Chili flakes,12.0,12.0,0,0.5,280
+Cayenne pepper,12.0,7.8,0,0.5,318
+Paprika,14.1,21.1,0,0.5,282
+Turmeric,7.8,41.4,0,0.5,354
+Cumin seeds,17.8,66.4,0,0.4,375
+Cumin powder,18.0,66.0,0,0.4,375
+Coriander seeds,12.4,16.3,0,0.2,298
+Coriander powder,12.0,16.0,0,0.2,298
+Fennel seeds,15.8,18.5,0,0.3,345
+Fenugreek seeds,23.0,33.5,0,1.0,323
+Mustard seeds,26.1,9.2,0,1.0,508
+Cardamom (green),10.8,14.0,0,0,311
+Cardamom (black),10.0,12.0,0,0,300
+Cinnamon,4.0,8.3,0,0,247
+Cloves,6.0,11.8,0,0.2,274
+Nutmeg,5.8,3.0,0,0,525
+Mace,6.7,14.0,0,0,475
+Star anise,17.6,37.0,0,0,337
+Bay leaf,7.6,43.0,0,0,313
+Curry leaves,6.0,1.0,0,0,108
+Asafoetida (hing),4.0,30.0,0,0,297
+Saffron,11.4,11.1,0,0,310
+Allspice,6.1,7.1,0,0,263
+Anise seeds,17.6,37.0,0,0,337
+Caraway seeds,19.8,16.2,0,0,333
+Celery seeds,18.1,44.9,0,0,392
+Dill seeds,16.0,16.3,0,0,305
+Nigella seeds,16.0,8.0,0,0.4,345
+Poppy seeds,18.0,9.8,0,0,525
+Sesame seeds,17.7,14.6,0,0.4,573
+Ajwain (carom seeds),16.0,16.0,0,0,305
+Sumac,12.0,5.0,0,0,300
+Za’atar,10.0,10.0,0,0.5,350
+Five spice powder,12.0,15.0,0,0,300
+Garam masala,12.0,20.0,0,0.3,350
+Ras el hanout,12.0,15.0,0,0,300
+Taco seasoning,8.0,5.0,0,0,300
+Italian seasoning,10.0,10.0,0,0,250
+Herbs de Provence,10.0,15.0,0,0,250
+Pickling spice,12.0,10.0,0,0,300
+Steak seasoning,5.0,5.0,0,0,150
+Barbecue spice,5.0,5.0,0,0,200
+Chaat masala,5.0,20.0,0,0,200
+Sambar powder,12.0,15.0,0,0.5,300
+Rasam powder,10.0,12.0,0,0.5,300
+Almonds,21.0,3.7,0,0.0,579
+Peanuts,26.0,4.6,0,0.0,567
+Cashews,18.0,6.7,0,0.1,553
+Pistachios,20.0,3.9,0,0.3,562
+Walnuts,15.0,2.9,0,9.1,654
+Pecans,9.2,2.5,0,1.0,691
+Hazelnuts,15.0,4.7,0,0.1,628
+Macadamia nuts,7.9,3.7,0,0.2,718
+Brazil nuts,14.3,2.4,0,0.0,656
+Pine nuts,13.7,5.5,0,0.1,673
+Chestnuts,2.4,0.9,0,0.0,213
+Acorns,6.2,0.8,0,0.0,387
+Tiger nuts,4.0,5.0,0,0,400
+Candlenuts,19.0,2.0,0,5.0,600
+Pili nuts,11.0,3.0,0,0,719
+Ginkgo nuts,4.3,1.0,0,0,182
+Water chestnuts,1.4,0.0,0,0,97
+Kola nuts,6.0,2.0,0,0,300
+Betel nuts,5.0,2.0,0,0,350
+Areca nuts,5.0,2.0,0,0,350
+Mixed nuts,17.0,3.0,0,1.0,607
+Roasted peanuts,24.0,2.0,0,0,585
+Salted peanuts,24.0,2.0,0,0,585
+Peanut kernels,26.0,4.6,0,0,567
+Almond flakes,21.0,3.7,0,0,579
+Walnut halves,15.0,2.9,0,9.0,654
+Cashew pieces,18.0,6.7,0,0.1,553
+Nut butter mix,20.0,3.0,0,2.0,600
+Spinach,2.9,2.7,0,0.1,23
+Kale,4.3,1.5,0,0.2,49
+Swiss chard,1.8,1.8,0,0,19
+Collard greens,2.5,0.2,0,0.1,32
+Mustard greens,2.7,1.6,0,0.1,27
+Turnip greens,1.5,1.1,0,0,22
+Beet greens,2.2,2.6,0,0,22
+Radish greens,2.5,3.6,0,0,25
+Carrot greens,2.0,2.0,0,0,35
+Fenugreek leaves,4.4,1.9,0,0,49
+Amaranth leaves,2.5,2.3,0,0,23
+Sorrel leaves,2.0,2.4,0,0,22
+Water spinach,2.6,2.1,0,0,19
+Malabar spinach,1.8,1.2,0,0,19
+Bok choy,1.5,0.8,0,0,13
+Pak choi,1.5,0.8,0,0,13
+Napa cabbage,1.2,0.3,0,0,16
+Chinese cabbage,1.2,0.3,0,0,16
+Romaine lettuce,1.2,0.9,0,0,17
+Iceberg lettuce,0.9,0.4,0,0,14
+Butter lettuce,1.3,0.9,0,0,13
+Leaf lettuce,1.3,0.9,0,0,15
+Red leaf lettuce,1.3,1.2,0,0,16
+Green leaf lettuce,1.4,0.9,0,0,15
+Arugula,2.6,1.5,0,0.1,25
+Endive,1.3,0.8,0,0,17
+Escarole,1.3,0.8,0,0,17
+Frisée,1.5,0.8,0,0,17
+Chicory,1.4,0.8,0,0,23
+Dandelion greens,2.7,3.1,0,0,45
+Cress,2.6,1.3,0,0,32
+Watercress,2.3,0.2,0,0,11
+Garden cress,2.6,1.3,0,0,32
+Broccoli rabe,3.2,2.1,0,0,22
+Kohlrabi greens,2.0,0.4,0,0,25
+Pumpkin leaves,3.0,2.0,0,0,20
+Sweet potato leaves,4.0,1.5,0,0,42
+Drumstick leaves,6.7,0.9,0,0,64
+Banana leaves,2.0,1.0,0,0,25
+Taro leaves,4.0,1.5,0,0,40
+Celery leaves,3.0,2.0,0,0,30
+Parsley leaves,3.0,6.2,0,0,36
+Coriander leaves,2.1,1.8,0,0,23
+Mint leaves,3.8,5.1,0,0,70
+Basil leaves,3.2,3.2,0,0,23
+Dill leaves,3.5,6.6,0,0,43
+Curry leaves,6.0,1.0,0,0,108
+Oregano leaves,9.0,36.0,0,0,265
+Thyme leaves,5.6,17.5,0,0,101
+Sage leaves,10.6,28.1,0,0,315
+Rosemary leaves,3.3,6.7,0,0,131
+Bay leaves,7.6,43.0,0,0,313
+Lemongrass leaves,1.8,8.2,0,0,99
+Kaffir lime leaves,3.0,2.0,0,0,50
+Chives,3.3,1.6,0,0,30
+Garlic chives,2.0,1.5,0,0,30
+Fennel greens,2.0,1.5,0,0,25
+Beet tops,2.2,2.6,0,0,22
+Turnip tops,1.5,1.1,0,0,22
+Young greens mix,2.0,1.5,0,0,20
+Microgreens,2.5,1.5,0,0,25
+Wheatgrass,2.0,1.0,0,0,25
+Barley grass,3.0,2.0,0,0,30
+Sugar,0,0.1,0,0,387
+Brown sugar,0.1,0.7,0,0,380
+Jaggery,0.4,2.6,0,0,383
+Honey,0.3,0.4,0,0,304
+Maple syrup,0.0,0.1,0,0,260
+Corn syrup,0.0,0.0,0,0,281
+Chocolate,4.9,2.4,0.4,0,546
+Dark chocolate,7.8,11.9,0,0,598
+Milk chocolate,7.7,2.4,0.6,0,535
+White chocolate,5.9,0.2,1.0,0,539
+Cocoa powder,19.6,13.9,0,0,228
+Candy,0.0,0.0,0,0,394
+Toffee,1.0,0.5,0,0,390
+Caramel,3.0,0.1,0.1,0,390
+Fudge,2.5,0.7,0,0,411
+Nougat,4.0,1.0,0,0,380
+Marshmallow,1.8,0.2,0,0,318
+Jelly,0.0,0.2,0,0,270
+Gummy candy,6.0,0.0,0,0,340
+Lollipop,0.0,0.0,0,0,392
+Ice cream,3.5,0.1,0.2,0,207
+Gelato,4.0,0.2,0.2,0,220
+Sorbet,0.5,0.3,0,0,130
+Kulfi,5.0,0.2,0.3,0,180
+Frozen dessert,3.0,0.1,0,0,150
+Cake,6.0,1.5,0.1,0,350
+Sponge cake,7.0,1.2,0.2,0,297
+Pound cake,6.0,1.5,0.2,0,390
+Fruit cake,3.0,1.5,0.1,0,324
+Chocolate cake,5.0,2.0,0.2,0,370
+Muffin,6.0,1.5,0.1,0,350
+Cupcake,5.0,1.0,0.1,0,350
+Brownie,6.0,2.5,0.1,0,466
+Blondie,5.0,1.5,0.1,0,450
+Cookie,5.0,2.0,0,0,502
+Biscuit (sweet),6.0,2.0,0,0,480
+Shortbread,6.0,2.0,0,0,500
+Macaron,9.0,1.0,0,0.2,400
+Macaroon,4.0,1.0,0,0.5,470
+Donut,5.0,1.5,0.1,0,452
+Doughnut holes,5.0,1.5,0.1,0,450
+Pastry,5.0,1.0,0,0,400
+Danish pastry,6.0,1.5,0.1,0,370
+Croissant (sweet),8.0,1.5,0.1,0,406
+Puff pastry dessert,5.0,1.5,0,0,550
+Apple pie,3.0,1.0,0,0,237
+Cherry pie,3.0,1.0,0,0,260
+Pumpkin pie,4.0,1.0,0.2,0,243
+Lemon tart,4.0,0.5,0.1,0,300
+Fruit tart,4.0,0.5,0.1,0,300
+Pudding,3.0,0.1,0.2,0,130
+Custard,4.0,0.1,0.3,0,122
+Rice pudding,3.0,0.2,0.1,0,113
+Bread pudding,5.0,1.0,0.2,0,150
+Trifle,3.0,0.5,0.1,0,180
+Tiramisu,6.0,1.0,0.2,0,290
+Éclair,6.0,1.5,0.2,0,262
+Profiterole,7.0,1.5,0.2,0,300
+Churros,4.0,1.0,0,0,350
+Gulab jamun,4.0,1.0,0,0,300
+Rasgulla,4.0,0.5,0,0,186
+Rasmalai,8.0,0.5,0.2,0,250
+Jalebi,2.0,0.5,0,0,300
+Ladoo,5.0,1.5,0,0,450
+Barfi,8.0,0.5,0.2,0,350
+Halwa,2.0,0.5,0,0,350
+Mysore pak,2.0,0.5,0,0,500
+Peda,9.0,0.5,0.2,0,380
+Kheer,5.0,0.2,0.2,0,120
+Payasam,4.0,0.2,0.2,0,140
+Shrikhand (sweet),6.0,0.2,0.3,0,260
+Sweetened yogurt,4.0,0.1,0.4,0,100
+Sweet roll,7.0,2.0,0.1,0,320
+Honey cake,5.0,1.5,0,0,350
+Pancake (sweet),6.0,1.8,0.2,0,227
+Waffle (sweet),7.0,2.0,0.3,0,291
+Crepe (sweet),6.0,1.5,0.2,0,150
+Chocolate spread,6.0,2.5,0.2,0,540
+Hazelnut spread,6.0,2.5,0.2,0,541
+Jam,0.4,0.5,0,0,278
+Jelly spread,0.0,0.2,0,0,270
+Marmalade,0.2,0.2,0,0,250
+Fruit preserves,0.5,0.5,0,0,260
+Candied fruits,0.5,0.5,0,0,320
+Candied nuts,10.0,2.0,0,1.0,550
+Sugar syrup,0.0,0.0,0,0,260
+Sweet sauce,1.0,0.2,0,0,200
+Chocolate sauce,3.0,1.5,0.1,0,300
+Caramel sauce,2.0,0.1,0,0,300
+Strawberry sauce,0.2,0.2,0,0,150
+Vanilla sauce,3.0,0.1,0.2,0,150
+Sweetened condensed milk,7.9,0.2,0.4,0,321
+Milk fudge,4.0,0.5,0.3,0,350
+Coconut burfi,3.0,1.0,0,0,400
+Peanut chikki,15.0,3.0,0,0,500
+Sesame chikki,12.0,8.0,0,0.2,520
+Sugar candy,0.0,0.0,0,0,394
+Cotton candy,0.0,0.0,0,0,400
+Rock sugar,0.0,0.1,0,0,390
+Sweet cereal,5.0,8.0,1.5,0,380
+Dessert bar,4.0,2.0,0,0,450
+Mixed sweets,5.0,1.5,0.1,0,400
+Olive oil,0,0,0,0.8,884
+Extra virgin olive oil,0,0,0,0.8,884
+Refined olive oil,0,0,0,0.7,884
+Sunflower oil,0,0,0,0.1,884
+Mustard oil,0,0,0,2.0,884
+Groundnut oil,0,0,0,0.1,884
+Peanut oil,0,0,0,0.1,884
+Soybean oil,0,0,0,6.8,884
+Canola oil,0,0,0,9.1,884
+Corn oil,0,0,0,1.0,884
+Rice bran oil,0,0,0,1.6,884
+Coconut oil,0,0,0,0,862
+Palm oil,0,0,0,0.2,884
+Palm kernel oil,0,0,0,0,862
+Sesame oil,0,0,0,0.3,884
+Flaxseed oil,0,0,0,53.0,884
+Walnut oil,0,0,0,10.4,884
+Avocado oil,0,0,0,1.0,884
+Grapeseed oil,0,0,0,0.1,884
+Almond oil,0,0,0,0,884
+Butter oil,0,0,0,0.5,876
+Ghee,0,0,0,0.5,900
+Margarine,0.2,0,0,2.0,717
+Lard,0,0,0,1.0,900
+Tallow,0,0,0,0.5,900
+Fish oil,0,0,0,30.0,900
+Cod liver oil,0,0,0,20.0,900
+Vinegar,0,0,0,0,18
+Apple cider vinegar,0,0,0,0,21
+Balsamic vinegar,0.5,0.7,0,0,88
+White vinegar,0,0,0,0,18
+Soy sauce,10.5,2.4,0,0.1,53
+Tamari sauce,10.0,2.0,0,0,60
+Fish sauce,5.0,1.0,0.5,0.2,35
+Oyster sauce,4.0,0.5,0.1,0,51
+Hoisin sauce,3.0,1.0,0,0,220
+Teriyaki sauce,6.0,1.0,0,0,89
+Worcestershire sauce,0,0.5,0,0,78
+Ketchup,1.0,0.4,0,0,100
+Tomato sauce,1.5,0.6,0,0,29
+Marinara sauce,1.6,0.9,0,0,50
+Pasta sauce,2.0,1.0,0,0,60
+Chili sauce,2.0,0.8,0,0,20
+Hot sauce,0.5,0.4,0,0,11
+Barbecue sauce,0.6,0.4,0,0,172
+Mustard sauce,3.7,1.5,0,0.5,66
+Mayonnaise,1.0,0.2,0,1.0,680
+Salad dressing,1.0,0.2,0,1.0,450
+Ranch dressing,1.0,0.1,0.1,0.5,450
+Caesar dressing,2.0,0.2,0.2,1.0,500
+Thousand island dressing,1.0,0.2,0,0.5,370
+Pesto sauce,5.0,1.5,0,1.0,400
+Garlic sauce,2.0,0.5,0,0,300
+Tahini,17.0,9.0,0,0.5,595
+Hummus sauce,8.0,2.4,0,0.2,166
+Sriracha,2.0,1.0,0,0,100
+Chutney,1.0,1.0,0,0,150
+Mint chutney,2.0,2.0,0,0,50
+Tamarind chutney,1.0,1.0,0,0,180
+Soy paste,13.0,2.5,0,0.5,180
+Miso paste,12.0,2.5,0,0.5,198
+Curry paste,4.0,2.0,0,0,200
+Red curry paste,4.0,2.0,0,0,150
+Green curry paste,3.0,2.0,0,0,150
+Coconut cream sauce,2.0,1.0,0,0,300
+Cheese sauce,8.0,0.2,0.4,0.1,200
+Gravy,3.0,0.5,0,0,80
+White sauce,4.0,0.2,0.2,0,120
+Water,0,0,0,0,0
+Mineral water,0,0,0,0,0
+Sparkling water,0,0,0,0,0
+Coconut water,0.7,0.3,0,0,19
+Lemon water,0.1,0.1,0,0,5
+Fruit juice,0.5,0.3,0,0,50
+Orange juice,0.7,0.2,0,0,45
+Apple juice,0.1,0.1,0,0,46
+Grape juice,0.4,0.3,0,0,60
+Pineapple juice,0.4,0.3,0,0,53
+Mango juice,0.4,0.2,0,0,55
+Pomegranate juice,0.2,0.1,0,0,54
+Cranberry juice,0.0,0.1,0,0,46
+Mixed fruit juice,0.5,0.2,0,0,50
+Vegetable juice,1.0,0.4,0,0,20
+Tomato juice,0.8,0.4,0,0,17
+Sugarcane juice,0.1,0.6,0,0,39
+Carrot juice,0.9,0.3,0,0,40
+Beetroot juice,1.0,0.4,0,0,40
+Milk,3.2,0,0.4,0,61
+Skim milk,3.4,0,0.5,0,35
+Low-fat milk,3.3,0,0.5,0,50
+Almond milk,0.5,0.3,0,0,15
+Soy milk,3.3,0.6,0,0.1,54
+Oat milk,1.0,0.2,0,0,45
+Rice milk,0.3,0.2,0,0,47
+Coconut milk,2.3,1.6,0,0,230
+Buttermilk drink,3.3,0.1,0.2,0,40
+Lassi,3.0,0.1,0.3,0,70
+Sweet lassi,2.8,0.1,0.3,0,120
+Salted lassi,2.9,0.1,0.3,0,50
+Milkshake,3.5,0.2,0.4,0,120
+Smoothie,2.0,0.5,0.1,0,70
+Protein shake,20.0,1.0,1.0,0,100
+Energy drink,0.0,0.1,2.0,0,45
+Sports drink,0.0,0.1,0,0,25
+Soft drink,0.0,0.1,0,0,40
+Cola,0.0,0.1,0,0,42
+Lemon soda,0.0,0.1,0,0,40
+Ginger ale,0.0,0.1,0,0,35
+Iced tea,0.1,0.1,0,0,30
+Black tea,0.0,0.0,0,0,1
+Green tea,0.0,0.0,0,0,1
+Herbal tea,0.0,0.0,0,0,1
+Chai tea,2.0,0.1,0.2,0,60
+Coffee,0.1,0.0,0,0,1
+Black coffee,0.1,0.0,0,0,1
+Milk coffee,1.5,0.0,0.2,0,30
+Espresso,0.1,0.1,0,0,2
+Cappuccino,3.0,0.1,0.3,0,60
+Latte,3.0,0.1,0.3,0,65
+Mocha,4.0,0.5,0.3,0,80
+Cold brew coffee,0.1,0.0,0,0,2
+Hot chocolate,3.5,1.0,0.4,0,77
+Cocoa drink,3.5,1.0,0.4,0,80
+Malt drink,3.0,1.0,0.5,0,80
+Horchata,1.0,0.5,0,0,55
+Kombucha,0.1,0.1,0,0,15
+Kefir drink,3.0,0.1,0.3,0,60
+Probiotic drink,1.0,0.1,0,0,50
+Aloe vera drink,0.0,0.1,0,0,20
+Barley water,0.2,0.1,0,0,25
+Rice water,0.5,0.1,0,0,30
+Flavored water,0.0,0.0,0,0,0
+Fruit punch,0.1,0.2,0,0,50
+Mocktail,0.1,0.1,0,0,60
+Cocktail,0.1,0.1,0,0,150
+Beer,0.5,0.0,0,0,43
+Wine (red),0.2,0.5,0,0,85
+Wine (white),0.1,0.3,0,0,82
+Champagne,0.1,0.3,0,0,80
+Whisky,0.0,0.0,0,0,250
+Vodka,0.0,0.0,0,0,231
+Rum,0.0,0.0,0,0,231
+Gin,0.0,0.0,0,0,263
+Brandy,0.0,0.0,0,0,225
+Tequila,0.0,0.0,0,0,231
+Cider,0.0,0.2,0,0,50
+Mead,0.1,0.2,0,0,160
+Sake,0.5,0.1,0,0,134
+Toddy,0.5,0.5,0,0,80
+Palm wine,0.5,0.5,0,0,80
+Herbal decoction,0.0,0.0,0,0,5
+Ayurvedic drink,0.0,0.0,0,0,10
+Detox drink,0.0,0.0,0,0,15
+Lemon tea,0.0,0.1,0,0,20
+Mint tea,0.0,0.1,0,0,2
+Ginger tea,0.0,0.1,0,0,2
+Turmeric latte,2.0,0.5,0.2,0,70
+Vegetable soup,1.5,0.5,0,0,40
+Tomato soup,1.0,0.5,0,0,30
+Sweet corn soup,1.5,0.5,0,0,50
+Hot and sour soup,2.5,1.0,0,0,45
+Clear soup,1.0,0.2,0,0,20
+Manchow soup,1.5,0.8,0,0,45
+Lentil soup,4.0,2.5,0,0,70
+Bean soup,5.0,2.5,0,0,80
+Chicken soup,4.0,0.5,0.2,0,50
+Chicken noodle soup,4.5,0.8,0.2,0,60
+Chicken clear soup,4.0,0.5,0.2,0,45
+Mutton soup,5.0,1.5,1.0,0,70
+Beef soup,6.0,2.0,1.5,0,80
+Bone broth,5.0,0.2,0.3,0.1,40
+Fish soup,5.0,0.5,1.0,0.3,60
+Seafood soup,6.0,1.0,1.5,0.3,70
+Crab soup,5.0,0.5,1.0,0.2,60
+Prawn soup,5.0,0.5,0.5,0.2,65
+Mushroom soup,2.0,0.8,0,0,50
+Cream of mushroom soup,2.0,0.5,0.1,0,80
+Cream of tomato soup,1.5,0.5,0.1,0,70
+Cream of chicken soup,4.0,0.5,0.2,0,90
+Spinach soup,2.0,2.0,0,0,40
+Broccoli soup,2.0,0.8,0,0,45
+Pumpkin soup,1.0,0.5,0,0,40
+Carrot soup,1.0,0.4,0,0,40
+Pea soup,4.0,1.5,0,0,75
+Split pea soup,5.0,2.0,0,0,80
+French onion soup,2.5,0.5,0.2,0,60
+Onion soup,1.5,0.4,0,0,40
+Minestrone soup,3.0,1.0,0,0,60
+Gazpacho,1.0,0.5,0,0,40
+Chowder,4.0,0.8,0.5,0.1,100
+Clam chowder,5.0,5.0,15.0,0.2,120
+Corn chowder,3.0,0.8,0.2,0,90
+Potato soup,2.0,0.8,0.1,0,80
+Leek and potato soup,2.0,1.0,0.1,0,70
+Thai soup,3.0,1.0,0,0,80
+Tom yum soup,4.0,1.0,0,0,50
+Tom kha soup,3.0,1.0,0,0,100
+Ramen soup,4.0,1.5,0.5,0,80
+Miso soup,3.0,1.0,0,0,40
+Wonton soup,4.0,1.5,0.3,0,70
+Egg drop soup,3.0,1.0,0.5,0,50
+Hot pot soup base,2.0,1.0,0.5,0,40
+Curry soup,3.0,1.5,0,0,90
+Coconut soup,2.0,1.0,0,0,120
+Rasam,1.0,1.0,0,0,40
+Sambar,3.0,1.5,0,0,60
+Mulligatawny soup,3.0,1.5,0,0,70
+Lentil vegetable soup,4.0,2.0,0,0,65
+Clear vegetable broth,1.0,0.2,0,0,15
+Beef broth,4.0,0.5,1.0,0,20
+Chicken broth,3.0,0.2,0.2,0,20
+Fish broth,3.0,0.2,0.5,0.1,25
+Vegetable stock,1.0,0.2,0,0,15
+Chicken stock,3.0,0.2,0.2,0,25
+Meat stock,3.0,0.5,0.5,0,30
+Soup concentrate,5.0,2.0,0.5,0,150
+Instant soup,2.0,1.0,0.1,0,60
+Canned soup,3.0,1.0,0.2,0,60
+Detox soup,1.5,1.0,0,0,30
+Herbal soup,1.0,0.5,0,0,20
+Noodle soup,3.0,1.0,0.1,0,70
+Rice soup,2.0,0.5,0,0,60
+Congee,2.0,0.5,0,0,50
+Porridge soup,3.0,1.0,0,0,60
+Seafood bisque,5.0,1.0,1.0,0.2,130
+Lobster bisque,6.0,1.0,1.0,0.3,150
+Shrimp bisque,6.0,1.0,1.0,0.2,140
+Bread,9.0,2.5,0,0,265
+White bread,8.0,2.5,0,0,265
+Brown bread,9.0,2.8,0,0.1,250
+Whole wheat bread,13.0,3.6,0,0.1,247
+Multigrain bread,13.0,2.5,0,0.2,265
+Rye bread,9.0,2.8,0,0.1,259
+Sourdough bread,10.0,2.6,0,0,250
+Baguette,10.0,2.5,0,0,270
+Bun,8.0,2.0,0,0,280
+Burger bun,9.0,2.5,0,0,280
+Hot dog bun,9.0,2.5,0,0,280
+Dinner roll,8.0,2.0,0,0,300
+Pav,8.0,2.0,0,0,280
+Pita bread,9.0,2.0,0,0,275
+Naan,9.0,2.0,0.1,0,300
+Kulcha,8.0,2.0,0.1,0,290
+Paratha,9.0,2.0,0,0,320
+Roti,10.0,3.0,0,0,270
+Tortilla,7.0,2.0,0,0,300
+Wrap bread,8.0,2.0,0,0,300
+Flatbread,9.0,2.5,0,0,280
+Focaccia,9.0,2.0,0,0,290
+Ciabatta,9.0,2.5,0,0,270
+Bagel,10.0,2.8,0,0,250
+Pretzel,10.0,3.5,0,0,380
+Croissant,8.0,2.0,0.2,0,406
+Danish pastry,6.0,1.5,0.1,0,370
+Puff pastry,6.0,2.0,0,0,550
+Shortcrust pastry,6.0,1.5,0,0,500
+Phyllo pastry,7.0,1.5,0,0,300
+Cake,6.0,1.5,0.2,0,350
+Sponge cake,7.0,1.2,0.2,0,297
+Pound cake,6.0,1.5,0.2,0,390
+Fruit cake,3.0,1.5,0.1,0,324
+Chocolate cake,5.0,2.0,0.2,0,370
+Muffin,6.0,1.5,0.1,0,350
+Cupcake,5.0,1.0,0.1,0,350
+Brownie,6.0,2.5,0.1,0,466
+Cookie,5.0,2.0,0,0,502
+Biscuit,7.0,2.5,0,0,480
+Cracker,9.0,4.0,0,0,500
+Rusks,9.0,3.0,0,0,400
+Toast,9.0,2.5,0,0,300
+Breadsticks,10.0,3.0,0,0,400
+Garlic bread,8.0,2.0,0.1,0,350
+Cheese bread,12.0,2.0,0.3,0,320
+Pizza base,8.0,2.5,0,0,270
+Pizza crust,9.0,2.5,0,0,280
+Calzone base,9.0,2.5,0,0,280
+Focaccia bread,9.0,2.0,0,0,290
+Scone,6.0,2.0,0.1,0,360
+Tea cake,5.0,1.5,0.1,0,350
+Loaf cake,5.0,1.5,0.1,0,350
+Banana bread,5.0,1.5,0.1,0,330
+Pumpkin bread,5.0,1.5,0.1,0,300
+Zucchini bread,5.0,1.5,0.1,0,300
+Cornbread,7.0,2.0,0.1,0,330
+Dough,8.0,2.5,0,0,250
+Yeast dough,8.0,2.5,0,0,250
+Cookie dough,5.0,2.0,0.1,0,450
+Pie crust,6.0,2.0,0,0,500
+Tart shell,6.0,2.0,0,0,500
+Pastry shell,6.0,2.0,0,0,500
+Turnover pastry,5.0,1.5,0,0,400
+Danish roll,6.0,1.5,0.1,0,370
+Cinnamon roll,6.0,2.0,0,0,350
+Sticky bun,6.0,2.0,0,0,350
+Brioche,10.0,2.5,0.2,0,340
+Challah,10.0,2.5,0.2,0,300
+Panettone,8.0,2.0,0.2,0,320
+Stollen,7.0,1.5,0.1,0,350
+Babka,7.0,2.0,0.1,0,380
+Biscotti,12.0,3.0,0.1,0,450
+Rusk toast,9.0,3.0,0,0,400
+Croutons,11.0,3.5,0,0,450
+Bread crumbs,13.0,4.0,0,0,390
+Cake rusk,8.0,2.0,0.1,0,450
+Swiss roll,6.0,1.5,0.2,0,350
+Cream roll,5.0,1.0,0.1,0,400
+Jam roll,5.0,1.0,0.1,0,350
+Chocolate croissant,7.0,2.0,0.1,0,420
+Butter croissant,8.0,1.5,0.2,0,406
+Cheese croissant,9.0,1.5,0.3,0,410
+Savory pastry,8.0,2.0,0.2,0,350
+Sweet pastry,5.0,1.5,0.1,0,380
+Eggless cake,5.0,1.5,0,0,350
+Gluten-free bread,4.0,1.5,0,0,250
+Gluten-free cake,3.0,1.0,0,0,350
+Multigrain bun,10.0,2.5,0,0.1,270
+Seeded bread,12.0,3.0,0,0.5,300
+Stuffed bread,9.0,2.0,0.1,0,300
+Stuffed bun,9.0,2.0,0.1,0,300
+Bakery pie,4.0,1.5,0.1,0,300
+Bakery tart,4.0,1.5,0.1,0,350
+Bakery puff,5.0,1.5,0,0,500
+Bakery turnover,5.0,1.5,0,0,400
+Bakery roll,6.0,1.5,0,0,350
+Bakery loaf,8.0,2.5,0,0,270
+Bakery biscuit,6.0,2.0,0,0,480
+Bakery cookie,5.0,2.0,0,0,500
+Bakery cake,6.0,1.5,0.1,0,350
+Bakery bread,8.0,2.5,0,0,270
+Bakery croissant,8.0,1.5,0.2,0,406
+Bakery muffin,6.0,1.5,0.1,0,350
+Bakery brownie,6.0,2.5,0.1,0,460
+Bakery pastry,5.0,1.5,0.1,0,400
+Bakery dough,8.0,2.5,0,0,250
+Bakery base,8.0,2.5,0,0,270
+Bakery flatbread,9.0,2.5,0,0,280
+Mixed baked products,7.0,2.0,0.1,0,350
+Burger,13.0,2.5,1.0,0,250
+Cheeseburger,15.0,2.5,1.2,0,300
+Veg burger,8.0,2.0,0,0,220
+Chicken burger,14.0,1.5,0.3,0,260
+Beef burger,16.0,3.0,2.0,0,280
+Fish burger,14.0,1.0,1.0,0.2,250
+French fries,3.0,0.8,0,0,312
+Curly fries,3.0,0.8,0,0,320
+Wedges,3.0,0.8,0,0,150
+Loaded fries,6.0,1.0,0.2,0,400
+Pizza slice,11.0,1.5,0.4,0,270
+Cheese pizza,12.0,1.5,0.5,0,266
+Pepperoni pizza,13.0,1.8,0.6,0,280
+Veg pizza,10.0,1.5,0.3,0,250
+Chicken pizza,14.0,1.5,0.4,0,270
+Hot dog,10.0,1.5,0.5,0,290
+Corn dog,8.0,1.5,0.5,0,250
+Chicken nuggets,15.0,1.0,0.2,0,296
+Chicken wings,18.0,1.0,0.3,0,280
+Fried chicken,18.0,1.2,0.3,0,260
+Fried fish,15.0,1.0,1.0,0.2,230
+Fish fingers,13.0,0.8,1.0,0.1,250
+Onion rings,4.0,0.5,0,0,350
+Mozzarella sticks,12.0,0.5,0.5,0,320
+Spring rolls,5.0,1.0,0,0,250
+Egg rolls,6.0,1.2,0.2,0,260
+Tacos,10.0,1.5,0.5,0,220
+Burrito,10.0,2.0,0.5,0,200
+Quesadilla,12.0,1.5,0.5,0,280
+Nachos,6.0,1.5,0.2,0,350
+Loaded nachos,9.0,1.8,0.3,0,400
+Sandwich,10.0,1.5,0.3,0,240
+Grilled sandwich,11.0,1.5,0.3,0,260
+Club sandwich,13.0,2.0,0.5,0,280
+Sub sandwich,12.0,2.0,0.5,0,250
+Shawarma,15.0,2.0,0.5,0,240
+Kebab wrap,14.0,2.0,0.5,0,230
+Falafel,13.0,3.0,0,0,333
+Samosa,4.0,1.5,0,0,260
+Pakora,5.0,1.5,0,0,280
+Vada,6.0,2.0,0,0,300
+Cutlet,8.0,1.5,0.1,0,250
+Patty,15.0,2.5,1.5,0,260
+Chow mein,6.0,1.5,0.1,0,150
+Fried rice,5.0,1.0,0.1,0,170
+Manchurian,4.0,1.0,0,0,140
+Momos,6.0,1.0,0.1,0,200
+Fast food combo,10.0,2.0,0.5,0,280
+Rice meal,4.0,1.0,0,0,140
+Dal rice,5.0,1.5,0,0,130
+Curd rice,4.0,0.5,0.1,0,120
+Khichdi,5.0,1.2,0,0,120
+Biryani,8.0,1.5,0.3,0,180
+Pulao,5.0,1.2,0,0,140
+Fried rice,5.0,1.0,0.1,0,170
+Vegetable curry,3.0,1.0,0,0,100
+Chicken curry,12.0,1.0,0.3,0,140
+Mutton curry,14.0,2.0,1.5,0,180
+Fish curry,12.0,1.0,1.0,0.2,130
+Paneer curry,10.0,0.5,0.2,0,200
+Tofu curry,8.0,1.5,0,0.1,120
+Dal,6.0,2.0,0,0,100
+Dal tadka,6.0,2.0,0,0,120
+Dal fry,6.0,2.0,0,0,130
+Rajma,7.0,2.5,0,0,120
+Chole,7.0,2.5,0,0,130
+Sambar,3.0,1.5,0,0,60
+Rasam,1.0,1.0,0,0,40
+Vegetable stir fry,3.0,1.0,0,0,80
+Chicken stir fry,15.0,1.0,0.3,0,150
+Noodles,5.0,1.0,0,0,140
+Pasta,5.0,1.0,0,0,130
+Spaghetti,5.0,1.0,0,0,130
+Macaroni,5.0,1.0,0,0,130
+Lasagna,10.0,1.5,0.5,0,160
+Pizza (whole),12.0,1.5,0.5,0,270
+Burger meal,10.0,2.0,0.5,0,260
+Sandwich meal,10.0,1.5,0.3,0,240
+Salad,2.0,1.0,0,0,50
+Caesar salad,5.0,1.0,0.2,0,180
+Greek salad,3.0,1.0,0.2,0,120
+Coleslaw,1.0,0.5,0,0,150
+Potato salad,2.0,0.5,0,0,140
+Pasta salad,4.0,0.8,0,0,160
+Rice salad,3.0,0.5,0,0,150
+Soup meal,4.0,1.5,0.2,0,80
+Thali,6.0,2.0,0.2,0,180
+Combo meal,8.0,2.0,0.4,0,220
+Lunch platter,8.0,2.0,0.4,0,200
+Dinner platter,9.0,2.5,0.5,0,220
+Breakfast meal,7.0,2.0,0.4,0,200
+Omelette meal,12.0,1.5,1.0,0,160
+Scrambled eggs meal,11.0,1.5,1.0,0,160
+Grilled chicken plate,25.0,1.0,0.3,0,180
+Roast chicken plate,22.0,1.0,0.3,0,200
+Fish fry plate,18.0,1.0,1.0,0.2,220
+Veg thali,5.0,2.0,0,0,150
+Non-veg thali,10.0,2.5,0.5,0,180
+Rice and curry,5.0,1.2,0.1,0,130
+Roti sabzi,6.0,2.0,0,0,160
+Chapati meal,6.0,2.0,0,0,160
+Paratha meal,7.0,2.0,0,0,200
+Wrap meal,8.0,1.5,0.2,0,220
+Bowl meal,8.0,2.0,0.2,0,180
+Buddha bowl,6.0,2.0,0,0.1,150
+Protein bowl,15.0,2.5,0.5,0,180
+Veg bowl,5.0,2.0,0,0,120
+Chicken bowl,14.0,1.5,0.3,0,160
+Fish bowl,13.0,1.2,1.0,0.2,150
+Paneer bowl,12.0,1.0,0.2,0,190
+Tofu bowl,9.0,2.0,0,0.1,140
+Snack plate,5.0,1.0,0,0,250
+Appetizer platter,8.0,1.5,0.2,0,280
+Side dish,3.0,1.0,0,0,100
+Vegetable side,2.0,0.8,0,0,60
+Potato side,2.0,0.6,0,0,90
+Rice side,2.5,0.2,0,0,130
+Bread side,8.0,2.0,0,0,260
+Dal side,6.0,2.0,0,0,100
+Curry side,5.0,1.0,0.1,0,120
+Gravy dish,3.0,0.5,0.1,0,100
+Dry dish,8.0,2.0,0.1,0,180
+Semi-dry dish,6.0,1.5,0.1,0,140
+Mixed dish,6.0,1.5,0.1,0,150
+Continental meal,9.0,2.0,0.3,0,200
+Indian meal,7.0,2.5,0.2,0,180
+Chinese meal,6.0,1.5,0.2,0,180
+Italian meal,7.0,1.5,0.2,0,200
+Thai meal,6.0,1.5,0.2,0,160
+Mexican meal,8.0,2.0,0.3,0,200
+Middle Eastern meal,9.0,2.5,0.2,0,200
+Asian meal,6.0,1.5,0.2,0,170
+Western meal,10.0,2.0,0.4,0,220
+Home-style meal,6.0,2.0,0.2,0,160
+Restaurant meal,8.0,2.0,0.3,0,220
+Buffet dish,8.0,2.0,0.3,0,200
+Special meal,9.0,2.5,0.4,0,250
+Festival meal,10.0,2.5,0.4,0,280
+Party meal,9.0,2.0,0.3,0,260
+Family meal,7.0,2.0,0.2,0,180
+Whey protein,80.0,1.0,0.5,0,400
+Whey protein isolate,90.0,0.5,0.5,0,370
+Whey protein concentrate,75.0,1.5,0.5,0,400
+Casein protein,75.0,1.0,0.5,0,360
+Soy protein,85.0,10.0,0,0,340
+Pea protein,80.0,25.0,0,0,380
+Rice protein,80.0,5.0,0,0,380
+Plant protein blend,75.0,15.0,0,0,370
+Egg protein,80.0,0.0,1.0,0,370
+Collagen protein,90.0,0.0,0,0,360
+Mass gainer,25.0,5.0,1.0,0,380
+Meal replacement powder,30.0,10.0,2.0,0.5,350
+BCAA supplement,95.0,0.0,0,0,380
+EAA supplement,95.0,0.0,0,0,380
+Creatine monohydrate,0.0,0.0,0,0,0
+Creatine HCL,0.0,0.0,0,0,0
+Beta alanine,95.0,0.0,0,0,380
+L-glutamine,95.0,0.0,0,0,380
+L-arginine,95.0,0.0,0,0,380
+L-citrulline,95.0,0.0,0,0,380
+Pre-workout supplement,10.0,0.0,50.0,0,50
+Post-workout supplement,20.0,0.0,1.0,0,150
+Electrolyte powder,0.0,0.0,0,0,250
+Energy gel,0.0,0.0,0,0,250
+Multivitamin,0,0,100,0,0
+Vitamin A supplement,0,0,0,0,0
+Vitamin B complex,0,0,100,0,0
+Vitamin B12 supplement,0,0,500,0,0
+Vitamin C supplement,0,0,0,0,0
+Vitamin D supplement,0,0,0,0,0
+Vitamin E supplement,0,0,0,0,0
+Vitamin K supplement,0,0,0,0,0
+Calcium supplement,0,0,0,0,0
+Magnesium supplement,0,0,0,0,0
+Iron supplement,0,100,0,0,0
+Zinc supplement,0,0,0,0,0
+Potassium supplement,0,0,0,0,0
+Omega-3 capsules,0,0,0,30.0,900
+Fish oil capsules,0,0,0,30.0,900
+Cod liver oil capsules,0,0,0,20.0,900
+Flaxseed oil capsules,0,0,0,50.0,900
+Krill oil capsules,0,0,0,15.0,900
+Probiotic supplement,0,0,0,0,0
+Prebiotic supplement,0,0,0,0,200
+Digestive enzymes,0,0,0,0,0
+Fiber supplement,0,0,0,0,200
+Psyllium husk,0,2.0,0,0,180
+Ashwagandha,0,0,0,0,0
+Ginseng,0,0,0,0,0
+Turmeric capsules,0,0,0,0,0
+Curcumin supplement,0,0,0,0,0
+Ginger capsules,0,0,0,0,0
+Garlic capsules,0,0,0,0,0
+Spirulina,60.0,28.0,0,0.8,290
+Chlorella,58.0,10.0,0,0,410
+Wheatgrass powder,20.0,2.0,0,0,250
+Moringa powder,25.0,5.0,0,0.5,300
+Green tea extract,0,0,0,0,0
+Caffeine supplement,0,0,0,0,0
+Fat burner,0,0,0,0,0
+CLA supplement,0,0,0,80.0,900
+L-carnitine,0,0,0,0,0
+Melatonin,0,0,0,0,0
+Sleep supplement,0,0,0,0,0
+Joint supplement,0,0,0,0,0
+Glucosamine,0,0,0,0,0
+Chondroitin,0,0,0,0,0
+MSM supplement,0,0,0,0,0
+Collagen peptides,90.0,0.0,0,0,360
+Hyaluronic acid,0,0,0,0,0
+Biotin supplement,0,0,0,0,0
+Folic acid supplement,0,0,0,0,0
+Selenium supplement,0,0,0,0,0
+Chromium supplement,0,0,0,0,0
+Iodine supplement,0,0,0,0,0
+Copper supplement,0,0,0,0,0
+Manganese supplement,0,0,0,0,0
+Phosphorus supplement,0,0,0,0,0
+Boron supplement,0,0,0,0,0
+Silicon supplement,0,0,0,0,0
+Protein bar,30.0,2.0,1.0,0,350
+Nutrition bar,15.0,2.0,0.5,0,400
+Energy bar,10.0,2.0,0.5,0,400
+Recovery drink mix,20.0,1.0,1.0,0,350
+Sports drink powder,0.0,0.0,0,0,350
+Isotonic powder,0.0,0.0,0,0,350
+Amino acid blend,95.0,0.0,0,0,380
+Nitric oxide booster,0,0,0,0,0
+Testosterone booster,0,0,0,0,0
+Immunity supplement,0,0,0,0,0
+Herbal blend supplement,0,0,0,0,0
+Adaptogen blend,0,0,0,0,0
+Antioxidant supplement,0,0,0,0,0
+Liver support supplement,0,0,0,0,0
+Brain health supplement,0,0,0,0,0
+Heart health supplement,0,0,0,0,0
+Eye health supplement,0,0,0,0,0
+Bone health supplement,0,0,0,0,0
+Hair health supplement,0,0,0,0,0
+Skin health supplement,0,0,0,0,0
